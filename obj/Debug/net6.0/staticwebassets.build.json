@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DNSoJVfTu0nqOBcU1Pq37MLbEaUeqLhY3C/6jgyyK9E=",
+  "Hash": "uw+07Ym+BQzgBT4CI5/IkwpviyiJ3gAAzBIgVpwLE+c=",
   "Source": "lab1",
   "BasePath": "_content/lab1",
   "Mode": "Default",
@@ -68,6 +68,23 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "E:\\Lập trình web\\thuchanh\\lab1\\wwwroot\\css\\styles.css",
+      "SourceId": "lab1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Lập trình web\\thuchanh\\lab1\\wwwroot\\",
+      "BasePath": "_content/lab1",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
       "Identity": "E:\\Lập trình web\\thuchanh\\lab1\\wwwroot\\favicon.ico",
       "SourceId": "lab1",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\Lập trình web\\thuchanh\\lab1\\wwwroot\\js\\scripts.js",
+      "SourceId": "lab1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Lập trình web\\thuchanh\\lab1\\wwwroot\\",
+      "BasePath": "_content/lab1",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
       "Identity": "E:\\Lập trình web\\thuchanh\\lab1\\wwwroot\\js\\site.js",
