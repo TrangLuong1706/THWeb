@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Lập trình web\\thuchanh\\lab1\\lab1.csproj": {}
+    "E:\\Lập trình web\\thuchanh\\Lab2\\lab1.csproj": {}
   },
   "projects": {
-    "E:\\Lập trình web\\thuchanh\\lab1\\lab1.csproj": {
+    "E:\\Lập trình web\\thuchanh\\Lab2\\lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Lập trình web\\thuchanh\\lab1\\lab1.csproj",
+        "projectUniqueName": "E:\\Lập trình web\\thuchanh\\Lab2\\lab1.csproj",
         "projectName": "lab1",
-        "projectPath": "E:\\Lập trình web\\thuchanh\\lab1\\lab1.csproj",
+        "projectPath": "E:\\Lập trình web\\thuchanh\\Lab2\\lab1.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\Lập trình web\\thuchanh\\lab1\\obj\\",
+        "outputPath": "E:\\Lập trình web\\thuchanh\\Lab2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
